@@ -1,4 +1,4 @@
-# [DAX] Maven Market
+# [DAX] Maven Market Strategic Insights
 
 #### Total Transactions 
 
