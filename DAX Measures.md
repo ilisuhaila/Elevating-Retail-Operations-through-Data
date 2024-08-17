@@ -1,4 +1,4 @@
-# [DAX] Maven Market Strategic Insights
+# [DAX] Elevating Retail Operations through Data
 
 #### Total Transactions 
 
